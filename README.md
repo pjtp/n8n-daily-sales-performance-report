@@ -149,6 +149,6 @@ return [{
 
 1. add "send email" node
 
-![CDN](https://cdn.jsdelivr.net/gh/pjtp/n8n-daily-sales-performance-report@main/assets/stteing-mail.png)
+![CDN](https://cdn.jsdelivr.net/gh/pjtp/n8n-daily-sales-performance-report@main/assets/setting-mail.png)
 
 ![CDN](https://cdn.jsdelivr.net/gh/pjtp/n8n-daily-sales-performance-report@main/assets/mail.png)
